@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Erel Bitzan! <img height="40" src="https://i.imgur.com/4mNAvBc.png" alt="haskell"></h1>
+<h1 align="center"> Name <img height="40" src="https://i.imgur.com/4mNAvBc.png" alt="haskell"></h1>
 
 <h3 align="I like and use gentoo gnu/linux as a daily driver</h3>
 
